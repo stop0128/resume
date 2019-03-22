@@ -44,22 +44,27 @@
 * 개발 기술 :  
 * 담당 업무  
    * 1번이용
-   * 2번이용
+   * 2번이용  
+
 ### 운영체제
 > 내용
 * 기관 : 교내
 * 개발 기술 :  
 * 담당 업무  
    * 1번이용
-   * 2번이용
+   * 2번이용  
 
-### 코네이션
-> 내용
-* 기관 : 교내
-* 개발 기술 :  
+### 스마트 저금통(CONATION)
+> 2015년에 실시한 디자인씽킹기반 창의·융합 설계프로젝트 심화교육에서 했던 프로젝트입니다, 프로젝트 이름
+* 기관 : 한국산업기술대학교, 전자신문
+* 개발 환경
+   * O/S : Windows 10
+   * IDE : Unity Editor, Visual Studio
+   * Language : C
+   * Device : Arduino UNO
 * 담당 업무  
-   * 1번이용
-   * 2번이용
+   * 동전 구별 알고리즘 설계 및 관리
+   * 전체적인 소프트웨어 개발
 
 ### 증강현실을 이용한 가구배치 시스템
 > 교내에서 졸업작품으로 진행한 프로젝트이며 증강현실(AR: augmented reality)을 이용하여 가구들을 편리하게 배치하기 위해 개발한 시스템입니다. 주요기능으로는 가구의 크기를 측정하고 배치하며 사용자들끼리 배치에 사용했던 가구객체을 공유와 저장이 가능합니다.
@@ -77,7 +82,8 @@
    * UI디자인 
    ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B0%80%EA%B5%AC%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%95%A9%EB%B3%B8.png)
 * 시연 동영상  
-#[![시연동영상](https://github.com/stop0128/resume/blob/master/Images/%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B0%80%EA%B5%AC%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%8F%99%EC%98%81%EC%83%81.png)](https://www.youtube.com/watch?v=b2OcLAaamOE)
+[![시연동영상](https://github.com/stop0128/resume/blob/master/Images/%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B0%80%EA%B5%AC%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%8F%99%EC%98%81%EC%83%81.png)](https://www.youtube.com/watch?v=b2OcLAaamOE)  
+
 ### 비트교육센터에서 제작한거
 > 내용
 * 기관 : 교내
