@@ -76,7 +76,7 @@
    * 카메라에 비친 컬러의 스캔 기능
    * UI디자인 
    ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B0%80%EA%B5%AC%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%95%A9%EB%B3%B8.png)
-   [![이미지 텍스트]](https://www.youtube.com/watch?v=b2OcLAaamOE)
+   [![](https://github.com/stop0128/resume/blob/master/Images/%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B0%80%EA%B5%AC%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%8F%99%EC%98%81%EC%83%81.png)](https://www.youtube.com/watch?v=b2OcLAaamOE)
 
 ### 비트교육센터에서 제작한거
 > 내용
