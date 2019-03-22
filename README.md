@@ -84,13 +84,19 @@
 * 시연 동영상  
 [![시연동영상](https://github.com/stop0128/resume/blob/master/Images/%EC%A6%9D%EA%B0%95%ED%98%84%EC%8B%A4%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EA%B0%80%EA%B5%AC%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%8F%99%EC%98%81%EC%83%81.png)](https://www.youtube.com/watch?v=b2OcLAaamOE)  
 
-### 비트교육센터에서 제작한거
+### 위치기반의 이미지 분할 및 배치 시스템
 > 내용
-* 기관 : 교내
-* 개발 기술 :  
+* 기관 : 비트교육센터
+* 개발 환경
+   * O/S : Linux(Ubuntu, Raspbian), Windows10
+   * IDE : Vi, Visual Studio
+   * Language : C, Python, OpenCV
+   * API : curses
 * 담당 업무  
-   * 1번이용
-   * 2번이용
+   * 전체적인 스케줄 관리
+   * 개발환경 구축(오픈소스 분석을 위한 버전 통합)
+   * Python을 활용한 TUI환경 개발
+   * 센서입출력 데이터의 가공 알고리즘 설계 및 개발
 
 입상 및 수상
 -----------
