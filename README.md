@@ -51,17 +51,7 @@ TUI설계는 Wire Shark의 UI를 참고하여 설계하였으며, curses를 이�
 * 담당 업무  
    * TUI환경 설계 및 개발
    * 패킷분석 및 분석툴 개발
-   ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%BB%B4%ED%93%A8%ED%84%B0_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%86%B5%ED%95%A9%EB%B3%B8.png)
-### 새로운 Scheduling Algorithm이 포함된 Scheduling Program
-> 내용
-* 기관 : 한국산업기술대학교(교내 과목 프로젝트-운영체제)
-* 개발 환경
-   * O/S : Windows10
-   * IDE : Visual Studio
-   * Language : C
-* 담당 업무  
-   * 동전 구별 알고리즘 설계 및 관리
-   * 전체적인 소프트웨어 개발  
+   ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%BB%B4%ED%93%A8%ED%84%B0_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%86%B5%ED%95%A9%EB%B3%B8.png) 
 
 ### 스마트 저금통(CONATION)
 > 2015년에 실시한 디자인씽킹기반 창의·융합 설계프로젝트 심화교육에서 했던 프로젝트입니다.프로젝트 이름 뜻은 Coin과 Donation의 합성어입니다. 사람들이 접근하기 쉬운 곳에 저금통을 배치하여 기부를 유도하기 위해 설계되었습니다. 프로젝트의 가장 어려웠던 부분은 동전의 구별 부분이었습니다. 동전 구별부분은 거리측정센서를 이용하여 구별을 하였습니다.
