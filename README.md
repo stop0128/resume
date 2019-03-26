@@ -38,21 +38,28 @@
 
 프로젝트
 -------
-### 네트워크분석하는거 만든거
+### TUI기반의 Sniffing Program
 > 내용
-* 기관 : 교내
-* 개발 기술 :  
+* 기관 : 한국산업기술대학교(교내 과목 프로젝트-컴퓨터 네트워크)
+* 개발 환경
+   * O/S : Linux(Ubuntu)
+   * IDE : GCC, Vi
+   * Language : C
+   * API : curses
 * 담당 업무  
-   * 1번이용
-   * 2번이용  
+   * TUI환경 설계 및 개발
+   * 패킷분석 및 분석툴 개발
 
-### 운영체제
+### 새로운 Scheduling Algorithm이 포함된 Scheduling Program
 > 내용
-* 기관 : 교내
-* 개발 기술 :  
+* 기관 : 한국산업기술대학교(교내 과목 프로젝트-운영체제)
+* 개발 환경
+   * O/S : Windows10
+   * IDE : Visual Studio
+   * Language : C
 * 담당 업무  
-   * 1번이용
-   * 2번이용  
+   * 동전 구별 알고리즘 설계 및 관리
+   * 전체적인 소프트웨어 개발  
 
 ### 스마트 저금통(CONATION)
 > 2015년에 실시한 디자인씽킹기반 창의·융합 설계프로젝트 심화교육에서 했던 프로젝트입니다, 프로젝트 이름
@@ -91,8 +98,8 @@
 * 개발 환경
    * O/S : Linux(Ubuntu, Raspbian), Windows10
    * IDE : Vi, Visual Studio
-   * Language : C, Python, OpenCV
-   * API : curses
+   * Language : C, Python
+   * API : curses, OpenCV
 * 담당 업무  
    * 전체적인 스케줄 관리
    * 개발환경 구축(오픈소스 분석을 위한 버전 통합)
