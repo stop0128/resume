@@ -100,6 +100,7 @@
    * IDE : Vi, Visual Studio
    * Language : C, Python
    * API : curses, OpenCV
+   * Device : CruizCore®R1350N Rev1.0
 * 담당 업무  
    * 전체적인 스케줄 관리
    * 개발환경 구축(오픈소스 분석을 위한 버전 통합)
