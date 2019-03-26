@@ -39,7 +39,9 @@
 프로젝트
 -------
 ### TUI기반의 Sniffing Program
-> 내용
+> 교내에서 진행했던 프로젝트입니다. 패킷 스니핑이 목표였으며, 이에 저는 Wire Shark라는 프로그램에서 아이디어를 얻어 개발을 시작하였습니다.
+Curses를 이용하여 TUI를 Wire Shark UI 기준으로 설계하였습니다. 프로그램의 주된 기능은 네트워크 통신이 이루어질 때 주고
+ 받는 패킷들을 언팩킹하여 사용자에게 패킷의 내용을 실시간으로 알려줄 수 있습니다.
 * 기관 : 한국산업기술대학교(교내 과목 프로젝트-컴퓨터 네트워크)
 * 개발 환경
    * O/S : Linux(Ubuntu)
@@ -62,7 +64,7 @@
    * 전체적인 소프트웨어 개발  
 
 ### 스마트 저금통(CONATION)
-> 2015년에 실시한 디자인씽킹기반 창의·융합 설계프로젝트 심화교육에서 했던 프로젝트입니다, 프로젝트 이름
+> 2015년에 실시한 디자인씽킹기반 창의·융합 설계프로젝트 심화교육에서 했던 프로젝트입니다.프로젝트 이름 뜻은 Coin과 Donation의 합성어입니다. 사람들이 접근하기 쉬운 곳에 저금통을 배치하여 기부를 유도하기 위해 설계되었습니다. 프로젝트의 가장 어려웠던 부분은 동전의 구별 부분이었습니다. 동전 구별부분은 거리측정센서를 이용하여 구별을 하였습니다.
 * 기관 : 한국산업기술대학교, 전자신문
 * 개발 환경
    * O/S : Windows 10
@@ -98,8 +100,8 @@
 * 개발 환경
    * O/S : Linux(Ubuntu, Raspbian), Windows10
    * IDE : Vi, Visual Studio
-   * Language : C, Python
-   * API : curses, OpenCV
+   * Language : C, C++, Python, Shell script
+   * API : curses, OpenCV, Zlibrary, ffmpeg, omxplayer, boost, freetype
    * Device : CruizCore®R1350N Rev1.0
 * 담당 업무  
    * 전체적인 스케줄 관리
