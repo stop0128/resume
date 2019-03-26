@@ -49,7 +49,7 @@
 * 담당 업무  
    * TUI환경 설계 및 개발
    * 패킷분석 및 분석툴 개발
-
+   ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%BB%B4%ED%93%A8%ED%84%B0_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_%ED%86%B5%ED%95%A9%EB%B3%B8.png)
 ### 새로운 Scheduling Algorithm이 포함된 Scheduling Program
 > 내용
 * 기관 : 한국산업기술대학교(교내 과목 프로젝트-운영체제)
@@ -106,7 +106,8 @@
    * 개발환경 구축(오픈소스 분석을 위한 버전 통합)
    * Python을 활용한 TUI환경 개발
    * 센서입출력 데이터의 가공 알고리즘 설계 및 개발
-
+   ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%ED%95%A0%20%EB%B0%8F%20%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%86%B5%ED%95%A9.png)
+   ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%ED%95%A0%20%EB%B0%8F%20%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%8B%9C%EC%97%B0%ED%99%94%EB%A9%B4.png)
 입상 및 수상
 -----------
 * [2016 G-MOJA 크리에이팅 공모전 동상](http://www.etnews.com/20160524000076)
