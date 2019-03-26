@@ -110,6 +110,7 @@ TUI설계는 Wire Shark의 UI를 참고하여 설계하였으며, curses를 이�
    * 센서입출력 데이터의 가공 알고리즘 설계 및 개발
    ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%ED%95%A0%20%EB%B0%8F%20%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%9D%B4%EB%AF%B8%EC%A7%80_%ED%86%B5%ED%95%A9.png)
    ![ ](https://github.com/stop0128/resume/blob/master/Images/%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98%EC%9D%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B6%84%ED%95%A0%20%EB%B0%8F%20%EB%B0%B0%EC%B9%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C/%EC%8B%9C%EC%97%B0%ED%99%94%EB%A9%B4.png)
+
 입상 및 수상
 -----------
 * [2016 G-MOJA 크리에이팅 공모전 동상](http://www.etnews.com/20160524000076)
