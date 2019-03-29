@@ -73,7 +73,7 @@ TUI설계는 Wire Shark의 UI를 참고하여 설계하였으며, curses를 이�
    * O/S : Windows 10
    * IDE : Unity Editor, Visual Studio
    * Language : C#, SQL
-   * API : Vurforia
+   * API : Vuforia
 * 담당 업무  
    * 전체적인 스케줄 관리
    * 알고리즘 설계 및 관리
